@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AdhirKirtikar
 - 👀 I’m interested in JavaScript, Python, Machine Learning and Data Analysis
-- 🌱 I’m currently learning Hadoop
+- 🌱 I’m currently learning AWS & Azure
